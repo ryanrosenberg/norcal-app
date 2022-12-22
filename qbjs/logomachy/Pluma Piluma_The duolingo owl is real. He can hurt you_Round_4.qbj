@@ -1,0 +1,1590 @@
+{
+    "tossups_read": 20,
+    "match_teams": [
+        {
+            "bonus_points": 0,
+            "lineups": [
+                {
+                    "first_question": 1,
+                    "players": [
+                        {
+                            "name": "Mike Bentley"
+                        },
+                        {
+                            "name": "Tim Morrison"
+                        },
+                        {
+                            "name": "Naveed Chowdhury"
+                        },
+                        {
+                            "name": "Taylor Harvey"
+                        }
+                    ]
+                },
+                {
+                    "first_question": 20,
+                    "players": [
+                        {
+                            "name": "Mike Bentley"
+                        },
+                        {
+                            "name": "Tim Morrison"
+                        },
+                        {
+                            "name": "Naveed Chowdhury"
+                        },
+                        {
+                            "name": "Taylor Harvey"
+                        }
+                    ]
+                }
+            ],
+            "match_players": [
+                {
+                    "player": {
+                        "name": "Mike Bentley"
+                    },
+                    "answer_counts": [
+                        {
+                            "answer": {
+                                "value": 10
+                            },
+                            "number": 1
+                        },
+                        {
+                            "answer": {
+                                "value": -5
+                            },
+                            "number": 1
+                        },
+                        {
+                            "answer": {
+                                "value": 15
+                            },
+                            "number": 1
+                        }
+                    ],
+                    "tossups_heard": 20
+                },
+                {
+                    "player": {
+                        "name": "Tim Morrison"
+                    },
+                    "answer_counts": [
+                        {
+                            "answer": {
+                                "value": 15
+                            },
+                            "number": 3
+                        }
+                    ],
+                    "tossups_heard": 20
+                },
+                {
+                    "player": {
+                        "name": "Naveed Chowdhury"
+                    },
+                    "answer_counts": [
+                        {
+                            "answer": {
+                                "value": 10
+                            },
+                            "number": 1
+                        },
+                        {
+                            "answer": {
+                                "value": 15
+                            },
+                            "number": 1
+                        }
+                    ],
+                    "tossups_heard": 20
+                },
+                {
+                    "player": {
+                        "name": "Taylor Harvey"
+                    },
+                    "answer_counts": [
+                        {
+                            "answer": {
+                                "value": 15
+                            },
+                            "number": 1
+                        },
+                        {
+                            "answer": {
+                                "value": 10
+                            },
+                            "number": 4
+                        },
+                        {
+                            "answer": {
+                                "value": -5
+                            },
+                            "number": 1
+                        }
+                    ],
+                    "tossups_heard": 20
+                }
+            ],
+            "team": {
+                "name": "Pluma Piluma",
+                "players": [
+                    {
+                        "name": "Mike Bentley"
+                    },
+                    {
+                        "name": "Tim Morrison"
+                    },
+                    {
+                        "name": "Naveed Chowdhury"
+                    },
+                    {
+                        "name": "Taylor Harvey"
+                    }
+                ]
+            }
+        },
+        {
+            "bonus_points": 0,
+            "lineups": [
+                {
+                    "first_question": 1,
+                    "players": [
+                        {
+                            "name": "Shahar Schwartz"
+                        },
+                        {
+                            "name": "Alistair Gray"
+                        },
+                        {
+                            "name": "Eve Fleisig"
+                        },
+                        {
+                            "name": "Swapnil Garg"
+                        }
+                    ]
+                },
+                {
+                    "first_question": 11,
+                    "players": [
+                        {
+                            "name": "Shahar Schwartz"
+                        },
+                        {
+                            "name": "Alistair Gray"
+                        },
+                        {
+                            "name": "Eve Fleisig"
+                        },
+                        {
+                            "name": "Swapnil Garg"
+                        },
+                        {
+                            "name": "Aryan Deorah"
+                        }
+                    ]
+                }
+            ],
+            "match_players": [
+                {
+                    "player": {
+                        "name": "Shahar Schwartz"
+                    },
+                    "answer_counts": [
+                        {
+                            "answer": {
+                                "value": 15
+                            },
+                            "number": 1
+                        }
+                    ],
+                    "tossups_heard": 20
+                },
+                {
+                    "player": {
+                        "name": "Alistair Gray"
+                    },
+                    "answer_counts": [
+                        {
+                            "answer": {
+                                "value": -5
+                            },
+                            "number": 1
+                        }
+                    ],
+                    "tossups_heard": 20
+                },
+                {
+                    "player": {
+                        "name": "Eve Fleisig"
+                    },
+                    "answer_counts": [
+                        {
+                            "answer": {
+                                "value": 15
+                            },
+                            "number": 1
+                        },
+                        {
+                            "answer": {
+                                "value": 10
+                            },
+                            "number": 4
+                        }
+                    ],
+                    "tossups_heard": 20
+                },
+                {
+                    "player": {
+                        "name": "Swapnil Garg"
+                    },
+                    "answer_counts": [
+                        {
+                            "answer": {
+                                "value": 15
+                            },
+                            "number": 1
+                        }
+                    ],
+                    "tossups_heard": 20
+                },
+                {
+                    "player": {
+                        "name": "Aryan Deorah"
+                    },
+                    "answer_counts": [
+                        {
+                            "answer": {
+                                "value": 10
+                            },
+                            "number": 1
+                        }
+                    ],
+                    "tossups_heard": 10
+                },
+                {
+                    "answer_counts": [],
+                    "player": {
+                        "name": "Aryan Deorah"
+                    },
+                    "tossups_heard": 10
+                }
+            ],
+            "team": {
+                "name": "The duolingo owl is real. He can hurt you.",
+                "players": [
+                    {
+                        "name": "Shahar Schwartz"
+                    },
+                    {
+                        "name": "Alistair Gray"
+                    },
+                    {
+                        "name": "Eve Fleisig"
+                    },
+                    {
+                        "name": "Swapnil Garg"
+                    },
+                    {
+                        "name": "Aryan Deorah"
+                    }
+                ]
+            }
+        }
+    ],
+    "match_questions": [
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 49
+                    },
+                    "player": {
+                        "name": "Eve Fleisig"
+                    },
+                    "team": {
+                        "name": "The duolingo owl is real. He can hurt you.",
+                        "players": [
+                            {
+                                "name": "Shahar Schwartz"
+                            },
+                            {
+                                "name": "Alistair Gray"
+                            },
+                            {
+                                "name": "Eve Fleisig"
+                            },
+                            {
+                                "name": "Swapnil Garg"
+                            },
+                            {
+                                "name": "Aryan Deorah"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 15
+                    }
+                }
+            ],
+            "question_number": 1,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 1
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 25
+                    },
+                    "player": {
+                        "name": "Tim Morrison"
+                    },
+                    "team": {
+                        "name": "Pluma Piluma",
+                        "players": [
+                            {
+                                "name": "Mike Bentley"
+                            },
+                            {
+                                "name": "Tim Morrison"
+                            },
+                            {
+                                "name": "Naveed Chowdhury"
+                            },
+                            {
+                                "name": "Taylor Harvey"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 15
+                    }
+                }
+            ],
+            "question_number": 2,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 2
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 58
+                    },
+                    "player": {
+                        "name": "Taylor Harvey"
+                    },
+                    "team": {
+                        "name": "Pluma Piluma",
+                        "players": [
+                            {
+                                "name": "Mike Bentley"
+                            },
+                            {
+                                "name": "Tim Morrison"
+                            },
+                            {
+                                "name": "Naveed Chowdhury"
+                            },
+                            {
+                                "name": "Taylor Harvey"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 15
+                    }
+                }
+            ],
+            "question_number": 3,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 3
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 60
+                    },
+                    "player": {
+                        "name": "Alistair Gray"
+                    },
+                    "team": {
+                        "name": "The duolingo owl is real. He can hurt you.",
+                        "players": [
+                            {
+                                "name": "Shahar Schwartz"
+                            },
+                            {
+                                "name": "Alistair Gray"
+                            },
+                            {
+                                "name": "Eve Fleisig"
+                            },
+                            {
+                                "name": "Swapnil Garg"
+                            },
+                            {
+                                "name": "Aryan Deorah"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": -5
+                    }
+                },
+                {
+                    "buzz_position": {
+                        "word_index": 71
+                    },
+                    "player": {
+                        "name": "Taylor Harvey"
+                    },
+                    "team": {
+                        "name": "Pluma Piluma",
+                        "players": [
+                            {
+                                "name": "Mike Bentley"
+                            },
+                            {
+                                "name": "Tim Morrison"
+                            },
+                            {
+                                "name": "Naveed Chowdhury"
+                            },
+                            {
+                                "name": "Taylor Harvey"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 10
+                    }
+                }
+            ],
+            "question_number": 4,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 4
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 50
+                    },
+                    "player": {
+                        "name": "Tim Morrison"
+                    },
+                    "team": {
+                        "name": "Pluma Piluma",
+                        "players": [
+                            {
+                                "name": "Mike Bentley"
+                            },
+                            {
+                                "name": "Tim Morrison"
+                            },
+                            {
+                                "name": "Naveed Chowdhury"
+                            },
+                            {
+                                "name": "Taylor Harvey"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 15
+                    }
+                }
+            ],
+            "question_number": 5,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 5
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 87
+                    },
+                    "player": {
+                        "name": "Taylor Harvey"
+                    },
+                    "team": {
+                        "name": "Pluma Piluma",
+                        "players": [
+                            {
+                                "name": "Mike Bentley"
+                            },
+                            {
+                                "name": "Tim Morrison"
+                            },
+                            {
+                                "name": "Naveed Chowdhury"
+                            },
+                            {
+                                "name": "Taylor Harvey"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 10
+                    }
+                }
+            ],
+            "question_number": 6,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 6
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 43
+                    },
+                    "player": {
+                        "name": "Tim Morrison"
+                    },
+                    "team": {
+                        "name": "Pluma Piluma",
+                        "players": [
+                            {
+                                "name": "Mike Bentley"
+                            },
+                            {
+                                "name": "Tim Morrison"
+                            },
+                            {
+                                "name": "Naveed Chowdhury"
+                            },
+                            {
+                                "name": "Taylor Harvey"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 15
+                    }
+                }
+            ],
+            "question_number": 7,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 7
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 48
+                    },
+                    "player": {
+                        "name": "Taylor Harvey"
+                    },
+                    "team": {
+                        "name": "Pluma Piluma",
+                        "players": [
+                            {
+                                "name": "Mike Bentley"
+                            },
+                            {
+                                "name": "Tim Morrison"
+                            },
+                            {
+                                "name": "Naveed Chowdhury"
+                            },
+                            {
+                                "name": "Taylor Harvey"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": -5
+                    }
+                },
+                {
+                    "buzz_position": {
+                        "word_index": 125
+                    },
+                    "player": {
+                        "name": "Eve Fleisig"
+                    },
+                    "team": {
+                        "name": "The duolingo owl is real. He can hurt you.",
+                        "players": [
+                            {
+                                "name": "Shahar Schwartz"
+                            },
+                            {
+                                "name": "Alistair Gray"
+                            },
+                            {
+                                "name": "Eve Fleisig"
+                            },
+                            {
+                                "name": "Swapnil Garg"
+                            },
+                            {
+                                "name": "Aryan Deorah"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 10
+                    }
+                }
+            ],
+            "question_number": 8,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 8
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 92
+                    },
+                    "player": {
+                        "name": "Eve Fleisig"
+                    },
+                    "team": {
+                        "name": "The duolingo owl is real. He can hurt you.",
+                        "players": [
+                            {
+                                "name": "Shahar Schwartz"
+                            },
+                            {
+                                "name": "Alistair Gray"
+                            },
+                            {
+                                "name": "Eve Fleisig"
+                            },
+                            {
+                                "name": "Swapnil Garg"
+                            },
+                            {
+                                "name": "Aryan Deorah"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 10
+                    }
+                }
+            ],
+            "question_number": 9,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 9
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 89
+                    },
+                    "player": {
+                        "name": "Mike Bentley"
+                    },
+                    "team": {
+                        "name": "Pluma Piluma",
+                        "players": [
+                            {
+                                "name": "Mike Bentley"
+                            },
+                            {
+                                "name": "Tim Morrison"
+                            },
+                            {
+                                "name": "Naveed Chowdhury"
+                            },
+                            {
+                                "name": "Taylor Harvey"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 10
+                    }
+                }
+            ],
+            "question_number": 10,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 10
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 87
+                    },
+                    "player": {
+                        "name": "Mike Bentley"
+                    },
+                    "team": {
+                        "name": "Pluma Piluma",
+                        "players": [
+                            {
+                                "name": "Mike Bentley"
+                            },
+                            {
+                                "name": "Tim Morrison"
+                            },
+                            {
+                                "name": "Naveed Chowdhury"
+                            },
+                            {
+                                "name": "Taylor Harvey"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": -5
+                    }
+                },
+                {
+                    "buzz_position": {
+                        "word_index": 124
+                    },
+                    "player": {
+                        "name": "Aryan Deorah"
+                    },
+                    "team": {
+                        "name": "The duolingo owl is real. He can hurt you.",
+                        "players": [
+                            {
+                                "name": "Shahar Schwartz"
+                            },
+                            {
+                                "name": "Alistair Gray"
+                            },
+                            {
+                                "name": "Eve Fleisig"
+                            },
+                            {
+                                "name": "Swapnil Garg"
+                            },
+                            {
+                                "name": "Aryan Deorah"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 10
+                    }
+                }
+            ],
+            "question_number": 11,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 11
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 78
+                    },
+                    "player": {
+                        "name": "Eve Fleisig"
+                    },
+                    "team": {
+                        "name": "The duolingo owl is real. He can hurt you.",
+                        "players": [
+                            {
+                                "name": "Shahar Schwartz"
+                            },
+                            {
+                                "name": "Alistair Gray"
+                            },
+                            {
+                                "name": "Eve Fleisig"
+                            },
+                            {
+                                "name": "Swapnil Garg"
+                            },
+                            {
+                                "name": "Aryan Deorah"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 10
+                    }
+                }
+            ],
+            "question_number": 12,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 12
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 100
+                    },
+                    "player": {
+                        "name": "Naveed Chowdhury"
+                    },
+                    "team": {
+                        "name": "Pluma Piluma",
+                        "players": [
+                            {
+                                "name": "Mike Bentley"
+                            },
+                            {
+                                "name": "Tim Morrison"
+                            },
+                            {
+                                "name": "Naveed Chowdhury"
+                            },
+                            {
+                                "name": "Taylor Harvey"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 10
+                    }
+                }
+            ],
+            "question_number": 13,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 13
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 48
+                    },
+                    "player": {
+                        "name": "Mike Bentley"
+                    },
+                    "team": {
+                        "name": "Pluma Piluma",
+                        "players": [
+                            {
+                                "name": "Mike Bentley"
+                            },
+                            {
+                                "name": "Tim Morrison"
+                            },
+                            {
+                                "name": "Naveed Chowdhury"
+                            },
+                            {
+                                "name": "Taylor Harvey"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 15
+                    }
+                }
+            ],
+            "question_number": 14,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 14
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 62
+                    },
+                    "player": {
+                        "name": "Swapnil Garg"
+                    },
+                    "team": {
+                        "name": "The duolingo owl is real. He can hurt you.",
+                        "players": [
+                            {
+                                "name": "Shahar Schwartz"
+                            },
+                            {
+                                "name": "Alistair Gray"
+                            },
+                            {
+                                "name": "Eve Fleisig"
+                            },
+                            {
+                                "name": "Swapnil Garg"
+                            },
+                            {
+                                "name": "Aryan Deorah"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 15
+                    }
+                }
+            ],
+            "question_number": 15,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 15
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 93
+                    },
+                    "player": {
+                        "name": "Eve Fleisig"
+                    },
+                    "team": {
+                        "name": "The duolingo owl is real. He can hurt you.",
+                        "players": [
+                            {
+                                "name": "Shahar Schwartz"
+                            },
+                            {
+                                "name": "Alistair Gray"
+                            },
+                            {
+                                "name": "Eve Fleisig"
+                            },
+                            {
+                                "name": "Swapnil Garg"
+                            },
+                            {
+                                "name": "Aryan Deorah"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 10
+                    }
+                }
+            ],
+            "question_number": 16,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 16
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 17
+                    },
+                    "player": {
+                        "name": "Naveed Chowdhury"
+                    },
+                    "team": {
+                        "name": "Pluma Piluma",
+                        "players": [
+                            {
+                                "name": "Mike Bentley"
+                            },
+                            {
+                                "name": "Tim Morrison"
+                            },
+                            {
+                                "name": "Naveed Chowdhury"
+                            },
+                            {
+                                "name": "Taylor Harvey"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 15
+                    }
+                }
+            ],
+            "question_number": 17,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 17
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 32
+                    },
+                    "player": {
+                        "name": "Shahar Schwartz"
+                    },
+                    "team": {
+                        "name": "The duolingo owl is real. He can hurt you.",
+                        "players": [
+                            {
+                                "name": "Shahar Schwartz"
+                            },
+                            {
+                                "name": "Alistair Gray"
+                            },
+                            {
+                                "name": "Eve Fleisig"
+                            },
+                            {
+                                "name": "Swapnil Garg"
+                            },
+                            {
+                                "name": "Aryan Deorah"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 15
+                    }
+                }
+            ],
+            "question_number": 18,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 18
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 72
+                    },
+                    "player": {
+                        "name": "Taylor Harvey"
+                    },
+                    "team": {
+                        "name": "Pluma Piluma",
+                        "players": [
+                            {
+                                "name": "Mike Bentley"
+                            },
+                            {
+                                "name": "Tim Morrison"
+                            },
+                            {
+                                "name": "Naveed Chowdhury"
+                            },
+                            {
+                                "name": "Taylor Harvey"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 10
+                    }
+                }
+            ],
+            "question_number": 19,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 19
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        },
+        {
+            "buzzes": [
+                {
+                    "buzz_position": {
+                        "word_index": 111
+                    },
+                    "player": {
+                        "name": "Taylor Harvey"
+                    },
+                    "team": {
+                        "name": "Pluma Piluma",
+                        "players": [
+                            {
+                                "name": "Mike Bentley"
+                            },
+                            {
+                                "name": "Tim Morrison"
+                            },
+                            {
+                                "name": "Naveed Chowdhury"
+                            },
+                            {
+                                "name": "Taylor Harvey"
+                            }
+                        ]
+                    },
+                    "result": {
+                        "value": 10
+                    }
+                }
+            ],
+            "question_number": 20,
+            "tossup_question": {
+                "parts": 1,
+                "type": "tossup",
+                "question_number": 20
+            },
+            "bonus": {
+                "question": {
+                    "parts": 3,
+                    "type": "bonus",
+                    "question_number": 0
+                },
+                "parts": [
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    },
+                    {
+                        "controlled_points": 0,
+                        "bounceback_points": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "packets": "Logomachy Packet 04"
+}
